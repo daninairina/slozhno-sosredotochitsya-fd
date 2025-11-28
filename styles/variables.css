@@ -1,0 +1,17 @@
+/*
+  Переменные для вашего проекта
+  и их переопределение под различные устройства
+*/
+:root {
+  --main-font: "IBM Plex mono", sans-serif;
+  --accent: rgb(255, 0, 112);
+  --main-heading-color: rgba(219, 0, 255, 1);
+  
+  --black: rgba(0, 0, 40, 1);
+  --white: rgba(241, 178, 206, 1);
+
+  --body-bg: rgba(0, 0, 40, 1);
+  --link-shadow-color: rgba(255, 0, 112, 1);
+
+  
+}
