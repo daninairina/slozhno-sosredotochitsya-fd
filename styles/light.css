@@ -15,10 +15,8 @@
     --accent: rgba(255, 141, 203, 1);
     --black: rgba(53, 52, 48, 1);
     --link-shadow-color: rgba(255, 141, 203, 1);
-  }
-
-  .page {
-    background-image: url(../images/cover-image-light.png);
+   --button-hover-border: rgba(50, 49, 45, 0.4);
+    --button-focus-border: rgba(50, 49, 45, 1); 
   }
 
   .header__theme-menu-button,

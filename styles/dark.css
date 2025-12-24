@@ -17,9 +17,6 @@
 }
 
 .theme-dark {
-  .page {
-    background-image: url(../images/cover-image-dark.png);
-  }
   .card__text {
     color: var(--white);
   }
