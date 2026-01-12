@@ -487,7 +487,8 @@
   }
 
   .footer {
-    height: 667px;
+    /* height: 667px; */
+    height: 100vh;
     padding: 10px;
     min-height: 667px;
   }
